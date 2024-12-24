@@ -1,3 +1,0 @@
-git add example.txt
-git commit -m "created file"
-git push 
